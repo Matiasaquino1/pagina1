@@ -1,0 +1,81 @@
+
+body{
+        font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+        width: 90%;
+        max-width: 1900%;
+        padding: 108px 0;
+        margin: 0 auto;
+        overflow: hidden;
+}
+footer{
+    background-color: #000;
+    color: white;
+    text-align: center;
+    padding: 30%;
+}
+.hero__title{
+    color: red;
+    position: static;
+}
+.hero__btn{
+    color: #43e3ff
+}
+.instructor__funcion{
+    color: rgb(0, 0, 0);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.instructor__tag{
+    color: #000
+}
+.instructor__paragraph{
+    color: #000;
+}
+.instructor__img{
+    height: 20vh;
+    background-attachment: fixed;
+    background-position: right;
+    position: relative;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.instructor1__img{
+    height: 30%;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.hero__texts{
+    padding: 0cm;
+}
+.nav__items{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-right: 100vh;
+    padding: 5px 15px;
+    font-weight: inherit;
+    text-align: left;
+}
+.hero{
+    height: 100vh;
+    background-image: url(img/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: center;
+    position: relative;
+}
+.banner__image{
+    position: relative;
+    left: 200px;    
+}
+.tel__image{
+    position: relative;
+    left: 150%;
+}
+    
+
+
