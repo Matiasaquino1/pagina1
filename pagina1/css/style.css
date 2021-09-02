@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 18px;
+}
+header.hero{
+    background-image: url(../img/bradcam.png);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color: #fff;
+    height: 150vh;
+}
+.menu{
+    padding: 50px 0;
+}
+.menu ul{
+    margin: 0;
+    padding: 0;
+}
+.menu ul li{
+    display: inline-block;
+    padding: 0;
+    vertical-align: middle;
+}
+.menu ul li a:hover{
+    text-decoration: underline;
+}
+.logo{
+    margin-right: 50%;
+    margin-left: 100px;
+}
+.hero__texts{
+    margin: 0 auto;
+    width: 1800px;
+}
+.hero__title{
+    font-size: 60px;
+}
+.hero2{
+    font-size: 26px;
+    padding: 23px 0;
+}
+button{
+    background: #43e3ff;
+    border: 0;
+    border-radius: 4px;
+    color:#fff;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 20px 25px;
+    margin: 27x 0;
+}
+button:hover{
+    background: #14929b;
+}
+.avatar__phone{
+    text-align: right;
+    width: 950px;
+}
+.sub{
+    width: 1300px;
+    margin: 270px auto;
+}
+.sub div{
+    display: inline-block;
+    vertical-align: middle;
+}
+.text h3{
+    font-size: 38px;
+    padding: 23px 0;
+}
+.text p{
+    padding: 23px 0;
+    line-height: 30px;
+}
+.hero-left .text{
+    width: 496px;
+}
+.instructor__img{
+    width: 670px;
+    text-align: right;
+}
+.hero-right .text{
+    width: 500px;
+}
+
+
+footer{
+    background-color: #000;
+    color: white;
+    text-align: center;
+    padding: 130px 20px;
+}
+
+
+    
+
+
